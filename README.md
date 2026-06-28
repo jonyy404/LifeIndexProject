@@ -1,9 +1,7 @@
 # Life-Index Project
 
-João Cunha nº31515, Miguel Cabral nº31634, Diogo Lopes nº32079
+CSV Files -> Excel and CSV files used for analisys 
 
-Ficheiros CSV -> Ficheiros Excel e CSV que foram utilizados na análise
+Scripts -> Scripts that were used in the analisys Scripts
 
-Scripts -> Scripts utilizados para fazer a análise 
-
-IBE2022_Quadros -> Ficheiro Excel da INE utilizado como referência de valores dos indicadores do Balanço Vida-Trabalho
+IBE2022_Quadros -> INE's Excel File that was used as a reference for the Life-Work Balance values 
